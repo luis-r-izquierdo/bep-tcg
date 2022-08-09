@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6975574.svg)](https://doi.org/10.5281/zenodo.6975574)
+
 # BEP-TCG
 Mathematica notebook created to analyze Best Experienced Payoff (BEP) dynamics in 3-strategy Tacit Coordination Games (TCG)
 
